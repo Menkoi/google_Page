@@ -16,9 +16,8 @@
     padding-top: 5%;
 }
 
-#logo {
+#logoMain {
     padding-top: 20vh;
-    padding-bottom: 2vh;
 }
 
 #searchBar {
@@ -52,10 +51,23 @@ box-shadow: -1px 5px 9px 0px rgba(0,0,0,0.05);
     box-shadow: -1px 5px 9px 0px rgba(0,0,0,0.1);
 }
 
+/* Image Search */
+#imgText {
+    position: relative;
+    right: 60px;
+    bottom:5px;
+}
+
+#logoImg {
+    padding-top: 20vh;
+    padding-left: 55px;
+}
+
 /* Advance Search */
 #logoSmall {
     width: 100px;
     padding: 10px;
+    margin: 0;
 }
 
 #advanceHead {
