@@ -83,10 +83,18 @@ box-shadow: -1px 5px 9px 0px rgba(0,0,0,0.05);
     padding-left: 5%;
 }
 
-#test {
-    
-}
-
 #searchInput {
     float: center;
+}
+
+#advance {
+    padding-left: 21em;
+}
+
+#advance input {
+    padding: 10px;
+    background-color: #4285F4;
+    border: 0px solid;
+    border-radius: 3px;
+    color: white;
 }
