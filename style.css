@@ -21,6 +21,7 @@
 }
 
 #searchBar {
+    padding-top: 40px;
     padding: 10px;
     border-radius: 20px;
     border: 1px solid lightgray;
